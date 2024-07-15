@@ -1,7 +1,7 @@
-## Hi there 👋
+### Hi there 👋
 
 - 🔭 My current focus is on Computer Vision!
-- 🤔 I’m looking for help with a CV-based Fitness App!
+- 🌱 I am currently working on a CV-based Fitness App!
 - ⚡ Excited about exploring front-end development
 
 <br>
