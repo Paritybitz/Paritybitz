@@ -1,8 +1,8 @@
 ### Hey there 🚀
 
-- 🔭 My current focus is on Computer Vision in my FiveRivers Tech Internship!
+- 🔭 My current focus is on Computer Vision in my FiveRivers Tech Internship
 - 🌱 I am currently working on a CV-based Fitness App called BEIGHT!
-- ⚡ Excited about exploring app development
+- ⚡ Excited about exploring front-end and app development
 
 <br>
 <br>
