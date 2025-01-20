@@ -1,6 +1,6 @@
 ### Hey there 🚀 
 
-- 🔭 My current focus is on Data Structures!
+- 🔭 My current focus is on AI/ML!
 - 🌱 I am currently working on
   - PDF Semantic Search Engine
   - a CV-based Fitness App called BEIGHT!
