@@ -4,8 +4,8 @@
 
 - 🔭 My current focus is on AI/ML!
 - 🌱 I am currently working on
-  - Financial Sentiment Analysis
-  - a CV-based Fitness App called BEIGHT!
+  - Internship at NDi
+  - Playing with AI tools
 - ⚡ Excited about exploring Algorithms!
 
 <br>
