@@ -5,7 +5,7 @@
 - 🔭 My current focus is on AI/ML!
 - 🌱 I am currently working on
   - Internship at NDi
-  - Playing with AI tools
+  - Playing with AI Agents
 - ⚡ Excited about exploring Algorithms!
 
 <br>
