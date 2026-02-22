@@ -8,6 +8,8 @@
   - Playing with OpenAI Agents
 - ⚡ Excited about exploring Algorithms!
 
+<img width=130% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=140&section=footer"/>
+
 <!-- <br>
 <br> -->
 
@@ -20,7 +22,6 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Paritybitz&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
 </a>
 
-<img width=130% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=140&section=footer"/> -->
 
 <!-- 
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Paritybitz&theme=highcontrast)](https://git.io/streak-stats)
